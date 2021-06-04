@@ -26,13 +26,25 @@
 
 ## スキル
 
+### バックエンド
+
 - Go 言語
-- Amazon Web Service(EC2, RDS)
-- Nginx
+- C 言語
 - MySQL
-- Bootstrap(HTML, CSS)
-- Linux
-- GitHub
+
+### フロントエンド
+
+- JavaScript(ES6)
+- BootStrap
+- HTML
+- CSS
+
+### その他
+
+- AWS(EC2, RDS)
+- Nginx
+- Git / GitHub
+- Slack
 
 ## 言語
 
