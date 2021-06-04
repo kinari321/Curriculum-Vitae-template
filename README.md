@@ -43,7 +43,7 @@
 
 - AWS(EC2, RDS)
 - Nginx
-- Git / GitHub
+- Git/GitHub
 - Slack
 
 ## 言語
