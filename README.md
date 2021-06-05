@@ -73,6 +73,7 @@
 | サービス               | リンク                                      |
 | ---------------------- | ------------------------------------------- |
 | Zenn                   | [kinari](https://zenn.dev/kinariru)         |
+| connpass               | [kin](https://connpass.com/user/_kinashi/)  |
 | Speaker Deck           | [Kinari](https://speakerdeck.com/kinari321) |
 | lit.link(リンクまとめ) | [Kinari](http://foobar.blog.com)            |
 
