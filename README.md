@@ -29,7 +29,7 @@
 | Mail                   | kinari.shi21@gmail.com                                    |
 | Twitter                | [@\_kinashi](https://twitter.com/_kinashi)                |
 | Wantedly               | [白川 生成](https://www.wantedly.com/id/kinari_shirakawa) |
-| lit.link(リンクまとめ) | [Kinari](http://foobar.blog.com)                          |
+| lit.link(リンクまとめ) | [Kinari](https://lit.link/kinari321)                      |
 
 ## スキル
 
